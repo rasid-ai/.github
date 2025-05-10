@@ -4,7 +4,8 @@
 
 RASID goes beyond a one-size-fits-all model, offering customized geospatial analysis projects that align with the unique requirements of your industry. Our team is prepared to act on innovative solutions. Our expertise is designed to provide actionable insights that can be directly applied to the most pressing challenges in your sector.
 
-![Our repos architecture](https://github.com/user-attachments/assets/e8d95174-6327-43d6-ac59-1138e3f37dc7). More details [here](https://miro.com/app/board/uXjVIS7IotA=/?share_link_id=295472131536) 
+![Our repos architecture](https://github.com/user-attachments/assets/e8d95174-6327-43d6-ac59-1138e3f37dc7)
+More details about RASID repos architecture [here](https://miro.com/app/board/uXjVIS7IotA=/?share_link_id=295472131536). 
 
 <!--
 
